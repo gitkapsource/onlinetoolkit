@@ -1,0 +1,14 @@
+node_modules
+build
+dist
+.env
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.sqlite3
+venv
+.env.*
+.idea
+.vscode

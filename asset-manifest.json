@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onlinetoolkit/static/css/main.0c23d700.css",
+    "main.js": "/onlinetoolkit/static/js/main.db33dce8.js",
+    "index.html": "/onlinetoolkit/index.html",
+    "main.0c23d700.css.map": "/onlinetoolkit/static/css/main.0c23d700.css.map",
+    "main.db33dce8.js.map": "/onlinetoolkit/static/js/main.db33dce8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c23d700.css",
+    "static/js/main.db33dce8.js"
+  ]
+}

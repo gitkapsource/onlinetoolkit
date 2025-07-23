@@ -13,7 +13,7 @@ export default function Home() {
 
     const endpoint = selectedTool === "image" ? "/ocr/image" : "/ocr/pdf";
 
-    const res = await fetch(`http://localhost:8000${endpoint}`, {
+    const res = await fetch(`https://ocr-backend-mpmb.onrender.com${endpoint}`, {
       method: "POST",
       body: formData,
     });

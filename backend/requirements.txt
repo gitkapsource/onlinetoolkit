@@ -1,6 +1,14 @@
 fastapi
 uvicorn
-pytesseract
 python-multipart
+pytesseract
+pdf2image
+pdfplumber
+python-docx
+reportlab
+docx2pdf
+openpyxl
+pdf2docx
 Pillow
 PyMuPDF
+
